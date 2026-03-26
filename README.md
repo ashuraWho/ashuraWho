@@ -15,14 +15,14 @@
 
 ### 👨‍🚀 About Me
 
-I am a Computational Scientist with a Master's degree in Astrophysics, driven by the challenge of analyzing complex systems—from cosmic structures forming in the early Universe to secure data pipelines for Earth Observation. 
+I am a Computational Scientist with a Master's degree in Astrophysics, driven by the challenge of analyzing complex systems, from cosmic structures forming in the early Universe to secure data pipelines for Earth Observation. 
 
 My transition into **AI** and **Cybersecurity** is fueled by a core principle: *Big data requires not only advanced analytical models but also robust, resilient, and secure architectures.* 
 
-- 🔭 **Currently working on:** **[Sentry-Sat](https://github.com/ashuraWho)** — *A simulated space-grade On-Board Computer (OBC) pipeline for autonomous edge-AI anomaly detection and cybersecurity.*
-- 🌱 **Focus areas:** High-Performance Computing (HPC), Secure-First Machine Learning pipelines, Edge AI, Cryptographic Telemetry.
-- 🎓 **Background:** M.Sc. in Astronomy and Astrophysics (Sapienza Università di Roma) / Large-scale N-body simulations on HPC clusters (VERA, LEONARDO).
-- 🛡️ **Certifications:** Google Cybersecurity Professional, IBM Cybersecurity Analyst, EASA A1/A3 UAS Remote Pilot.
+- 🔭 **Currently working on:** **[Sentry-Sat]([https://github.com/ashuraWho](https://github.com/ashuraWho/SentrySat))** — *A simulated space-grade On-Board Computer (OBC) pipeline for autonomous edge-AI anomaly detection and cybersecurity.*
+- 🫟 **Focus areas:** High-Performance Computing (HPC), Machine Learning & AI, Data Security.
+- 🎓 **Background:** M.Sc. in Astronomy and Astrophysics (Sapienza University of Rome) / Large-scale N-body simulations analysis on HPC clusters (VERA).
+- 🛡️ **Certifications:** Academy Ptython & Machine Learning, Google Cybersecurity Professional, IBM Cybersecurity Analyst.
 - 🏕️ **Fun Fact:** I bring the exact same discipline and leadership to problem-solving as I do when leading a Scout Troop in the wild.
 
 ---
