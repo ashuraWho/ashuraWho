@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="banner.png" alt="Sentry-Sat Space Cybersecurity Banner" width="100%">
+  
   <h1>🌌 Hi, I'm Emanuele Anzellotti (<a href="https://github.com/ashuraWho">@ashuraWho</a>)</h1>
   <h3>Computational Scientist | HPC & AI Engineer | Securing Data Pipelines for Earth Observation</h3>
   <br>
@@ -20,7 +22,7 @@ My transition into **AI** and **Cybersecurity** is fueled by a core principle: *
 
 - 🔭 **Currently working on:** **[Sentry-Sat](https://github.com/ashuraWho)** — *A simulated space-grade On-Board Computer (OBC) pipeline for autonomous edge-AI anomaly detection and cybersecurity.*
 - 🌱 **Focus areas:** High-Performance Computing (HPC), Secure-First Machine Learning pipelines, Edge AI, Cryptographic Telemetry.
-- 🎓 **Background:** M.Sc. in Astronomy and Astrophysics (Sapienza Università di Roma) / Large-scale N-body simulations on HPC clusters (VERA, CINECA's LEONARDO).
+- 🎓 **Background:** M.Sc. in Astronomy and Astrophysics (Sapienza Università di Roma) / Large-scale N-body simulations on HPC clusters (VERA, LEONARDO).
 - 🛡️ **Certifications:** Google Cybersecurity Professional, IBM Cybersecurity Analyst, EASA A1/A3 UAS Remote Pilot.
 - 🏕️ **Fun Fact:** I bring the exact same discipline and leadership to problem-solving as I do when leading a Scout Troop in the wild.
 
@@ -70,8 +72,11 @@ Sentry-Sat is a self-contained educational stack that demonstrates how an edge-A
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashuraWho&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuraWho&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="195" alt="Top Languages" />
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashuraWho&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9)](https://github.com/ashuraWho)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashuraWho&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/ashuraWho)
+
 </div>
 
 <br>
