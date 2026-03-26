@@ -22,8 +22,8 @@ My transition into **AI** and **Cybersecurity** is fueled by a core principle: *
 - 🔭 **Currently working on:** **[Sentry-Sat]([https://github.com/ashuraWho](https://github.com/ashuraWho/SentrySat))** — *A simulated space-grade On-Board Computer (OBC) pipeline for autonomous edge-AI anomaly detection and cybersecurity.*
 - 🫟 **Focus areas:** High-Performance Computing (HPC), Machine Learning & AI, Data Security.
 - 🎓 **Background:** M.Sc. in Astronomy and Astrophysics (Sapienza University of Rome) / Large-scale N-body simulations analysis on HPC clusters (VERA).
-- 🛡️ **Certifications:** Academy Ptython & Machine Learning, Google Cybersecurity Professional, IBM Cybersecurity Analyst.
-- 🏕️ **Fun Fact:** I bring the exact same discipline and leadership to problem-solving as I do when leading a Scout Troop in the wild.
+- 📜 **Certifications:** Academy Ptython & Machine Learning, Google Cybersecurity Professional, IBM Cybersecurity Analyst.
+- 🏔️ **Fun Fact:** I bring the exact same discipline and leadership to problem-solving as I do when leading a Scout Troop in the wild.
 
 ---
 
