@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌌 Ciao, I'm Emanuele Anzellotti (<a href="https://github.com/ashuraWho">@ashuraWho</a>)</h1>
+  <h1>🌌 Hi, I'm Emanuele Anzellotti (<a href="https://github.com/ashuraWho">@ashuraWho</a>)</h1>
   <h3>Computational Scientist | HPC & AI Engineer | Securing Data Pipelines for Earth Observation</h3>
   <br>
   
