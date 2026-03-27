@@ -68,18 +68,6 @@ Sentry-Sat is a self-contained educational stack that demonstrates how an edge-A
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashuraWho&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9)](https://github.com/ashuraWho)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashuraWho&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/ashuraWho)
-
-</div>
-
-<br>
-
 <div align="center">
   <i>"Let's connect to discuss how high-level scientific analysis can meet cutting-edge cybersecurity."</i>
 </div>
